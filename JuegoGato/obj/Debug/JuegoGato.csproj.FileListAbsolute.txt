@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\JuegoGato\JuegoGato\bin\Debug\JuegoGato.exe.config
+C:\Users\User\source\repos\JuegoGato\JuegoGato\bin\Debug\JuegoGato.exe
+C:\Users\User\source\repos\JuegoGato\JuegoGato\bin\Debug\JuegoGato.pdb
+C:\Users\User\source\repos\JuegoGato\JuegoGato\obj\Debug\JuegoGato.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\JuegoGato\JuegoGato\obj\Debug\JuegoGato.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JuegoGato\JuegoGato\obj\Debug\JuegoGato.exe
+C:\Users\User\source\repos\JuegoGato\JuegoGato\obj\Debug\JuegoGato.pdb
